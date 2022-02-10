@@ -1,0 +1,14 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  padding-right: 3%;
+  width: 100%;
+  text-align: right;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
